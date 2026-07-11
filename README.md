@@ -63,9 +63,6 @@ Sanya is an acronym for **Shell-Integrated Artificial Neural Yielding Assistant*
 
 ### **Advanced Features**
 - **Fallback AI Mode**: If Mistral API fails or internet is offline, Sanya switches to the local Ollama model.
-- **File System Agent**:
-  - Reads and understands files.
-  - Manages tasks via Void-List Todo application (read/write operations).
 
 ---
 
