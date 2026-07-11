@@ -1,8 +1,8 @@
-# Sanya - Shell-Integrated Artificial Neural Yielding Assistant
+# SANYA - Shell-Integrated Artificial Neural Yielding Assistant
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-**Sanya** is a sophisticated AI assistant designed to integrate seamlessly with Linux environments. It combines multiple advanced features including context-aware conversation, Just-In-Time (JIT) tool injection architecture via RAG (Retrieval-Augmented Generation), and bidirectional communication through Telegram.
+**SANYA** is a sophisticated AI assistant designed to integrate seamlessly with Linux environments. It combines multiple advanced features including context-aware conversation, Just-In-Time (JIT) tool injection architecture via RAG (Retrieval-Augmented Generation), and bidirectional communication through Telegram.
 
 ### **Project Status**: 
 Sanya is currently a private, active project developed by an IT-Apprentice (Application Development). This repository serves as an architectural preview and roadmap.
@@ -40,7 +40,7 @@ Sanya is an acronym for **Shell-Integrated Artificial Neural Yielding Assistant*
 - **Language**: C# (Native AOT), ONNX, SQLite
 - **Role**:
   - Local long-term memory with vector search capabilities.
-  - Supplies tools and data to Sanya in real-time for dynamic responses.
+  - Supplies tools and data to SANYA in real-time for dynamic responses.
 
 ### **4. AI Backends**
 | Model               | Role                          | Hosting          |
@@ -71,7 +71,7 @@ Sanya is an acronym for **Shell-Integrated Artificial Neural Yielding Assistant*
 
 ## **Visuals & Previews**
 
-### **Sanya in Action (CLI)**
+### **SANYA in Action (CLI)**
 <p align="center">
   <img src="docs/images/sanya_cli_demo.png" alt="Sanya CLI Folder Removal Demo" width="800">
 </p>
