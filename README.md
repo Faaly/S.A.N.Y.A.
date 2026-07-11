@@ -78,7 +78,7 @@ Sanya is an acronym for **Shell-Integrated Artificial Neural Yielding Assistant*
 
 ### **Sanya-LINK (Telegram Gateway)**
 <p align="center">
-  <img src="docs/images/sanya_link_pr.jpg" alt="Sanya-LINK Smartphone Preview" width="800">
+  <img src="docs/images/sanya_link_pr.png" alt="Sanya-LINK Smartphone Preview" width="800">
 </p>
 
 ### **System Architecture (Sequence Diagram)**
