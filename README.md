@@ -14,13 +14,6 @@ Sanya is currently a private, active project developed by an IT-Apprentice (Appl
 ### **What is SANYA?**
 Sanya is an acronym for **Shell-Integrated Artificial Neural Yielding Assistant**. Initially developed as a simple Linux shell chatbot in December 2025, it has evolved into a powerful AI orchestrator that integrates with various tools and systems.
 
-### **Core Philosophy**
-- **MCP Compliance**: Follows the Model Context Protocol (MCP) standard.
-- **Just-in-Time Tool Injection**: Uses SANYA-LEX to dynamically provide tools and data on demand.
-- **Custom Gateway Integration**: Sanya-LINK enables bidirectional communication between Telegram and the shell.
-
----
-
 ## **System Architecture**
 
 ### **1. Sanya Shell Component**
@@ -62,6 +55,8 @@ Sanya is an acronym for **Shell-Integrated Artificial Neural Yielding Assistant*
 - **File System Agent**: Secure read/write task management through a custom terminal Todo application (Void-List).
 
 ### **Advanced Features**
+- **MCP Compliance**: Follows the Model Context Protocol (MCP) standard.
+- **Just-in-Time Tool Injection**: Uses SANYA-LEX (RAG) to dynamically provide tools and data on demand.
 - **Fallback AI Mode**: If Mistral API fails or internet is offline, Sanya switches to the local Ollama model.
 
 ---
@@ -108,3 +103,4 @@ For questions and suggestions,
 you can contact me via: 
 Threads:`https://www.threads.com/@faaly_404`
 Bluesky:`https://bsky.app/profile/faaly.bsky.social`
+Forg:`https://forg.to/@faaly`
