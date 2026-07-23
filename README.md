@@ -1,6 +1,8 @@
 # SANYA - Shell-Integrated Artificial Neural Yielding Assistant
 
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+<p align="center">
+  <img src="docs/images/sanya_logo_no_border.png" alt="Sanya logo" width="200">
+</p>
 
 **SANYA** is a sophisticated AI assistant designed to integrate seamlessly with Linux environments. It combines multiple advanced features including context-aware conversation, Just-In-Time (JIT) tool injection architecture via RAG (Retrieval-Augmented Generation), and bidirectional communication through Telegram.
 
