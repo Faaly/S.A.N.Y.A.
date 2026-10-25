@@ -80,6 +80,11 @@ Sanya is an acronym for **Shell-Integrated Artificial Neural Yielding Assistant*
   <img src="docs/images/sanya_sequence_diagram.png" alt="Sanya System Sequence Diagram" width="800">
 </p>
 
+### **MCP Integration for external Tools (Sequence Diagram)**
+<p align="center">
+  <img src="docs/images/sanya_mcp_integration.png" alt="Sanya MCP Integration Diagram" width="800">
+</p>
+
 ---
 
 ## **Development Roadmap**
