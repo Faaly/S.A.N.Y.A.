@@ -31,7 +31,7 @@ Sanya is an acronym for **Shell-Integrated Artificial Neural Yielding Assistant*
   - Enables bidirectional communication between Telegram and the shell.
   - Acts as a bridge for remote control via Telegram API.
 
-### **3. Sanya-LEX (RAG Engine)**
+### **3. [Sanya-LEX](https://github.com/Faaly/Sanya-Lex) (RAG Engine)**
 - **Language**: C# (Native AOT), ONNX, SQLite
 - **Role**:
   - Local long-term memory with vector search capabilities.
@@ -40,8 +40,8 @@ Sanya is an acronym for **Shell-Integrated Artificial Neural Yielding Assistant*
 ### **4. AI Backends**
 | Model               | Role                          | Hosting          |
 |---------------------|-------------------------------|------------------|
-| Mistral-2603        | Primary SLM (Large Language)   | Mistral API      |
-| Ollama (8B fallback)| Local backup model             | Self-hosted      |
+| Cloud based AI       | Primary SLM   | Mistral API      |
+| Ollama | Local backup model             | Self-hosted      |
 
 ---
 
